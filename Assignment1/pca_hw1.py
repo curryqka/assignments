@@ -225,7 +225,7 @@ def project_data(
         data: Array of shape (n_samples, n_features).
         components: Array of shape (n_features, k) whose columns are unit
             component vectors.
-        feature_means: Array of shape (n_features,), the mean used for centering.
+        feature_means: Array of shape (n_features,), the centering mean.
 
     Returns:
         scores: Array of shape (n_samples, k), the coordinate of each sample
