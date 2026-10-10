@@ -1,5 +1,5 @@
 """
-CSE 242 Machine Learning - Homework 1, Part 3 (PCA)
+CSE 242 Machine Learning - Assignment 1, Part 3 (PCA)
 
 Implements Principal Component Analysis (PCA) from scratch with NumPy and
 produces every visualization required by Questions Q2-Q4:
